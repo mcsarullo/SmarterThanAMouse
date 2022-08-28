@@ -8,5 +8,5 @@ yet simple manner.
 
 
 
-Michael Sarullo
-Peter Van Kirk
+Michael Sarullo;
+ Peter Van Kirk
